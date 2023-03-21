@@ -8,6 +8,7 @@ body{
     display: grid;
     background-color: rgb(179, 220, 255);
     gap: 50px;
+    height: 100vh;
 }
 
 header{
